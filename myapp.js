@@ -45,11 +45,13 @@ Header.className= "Header";
 ToggleMenu.onclick = function (){
     if(ToggleBar.classList.contains("fa-bars")){
       ToggleMenu.style.background = "red";
+      ToggleMenu.style.color = "white";
       ToggleBar.classList.replace("fa-bars", "fa-times");
     }
     else{
       ToggleBar.classList.replace("fa-times", "fa-bars"); 
       ToggleMenu.style.background = "black";
+      ToggleMenu.style.color = "white";
     }
 }
 
