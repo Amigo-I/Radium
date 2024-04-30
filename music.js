@@ -2,8 +2,8 @@ const Music = document.createElement("div");
 const audio = document.createElement("audio");
 
 const Songs= [
-  { song: "Kangaroo MusiQue", link: "http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3" },
-  { song: "Sevish", link: "http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3" },
+  { song: "", link: "http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3" },
+  { song: "", link: "http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3" },
   { song: "", link: "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg" },
   { song: "", link: "http://commondatastorage.googleapis.com/codeskulptor-assets/Evillaugh.ogg" },
   { song: "", link: "http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3" },
